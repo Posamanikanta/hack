@@ -1,0 +1,2 @@
+"this is hack text..."
+"this is from terminal"

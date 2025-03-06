@@ -1,3 +1,4 @@
 "this is hack text..."
 "this is from terminal"
 "this is from linux"
+"this is from linux"
